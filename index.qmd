@@ -16,11 +16,26 @@ format:
 from: markdown+emoji
 ---
 
+
+## Who am I
+
+::: columns
+::: {.column width="50%"}
+Data Scientist manager at Microsoft.....
+
+![](quartopptimages/DeepshaMenghani.jpg){width="80%" fig-align="center" fig-alt="Self portrait."}
+:::
+
+::: {.column width="50%"}
+:::
+:::
+
+
 ## The biggest career transition of my life!
 
 ::: columns
 ::: {.column width="50%"}
-Data Scientist manager at Microsoft.
+Data Scientist manager at Microsoft.....
 
 ![](quartopptimages/DeepshaMenghani.jpg){width="80%" fig-align="center" fig-alt="Self portrait."}
 :::
@@ -29,10 +44,12 @@ Data Scientist manager at Microsoft.
 ::: fragment
 And a parent as of a month ago!
 
-![](quartopptimages/babymowgli.jpg){width="70%" fig-align="center" fig-alt="Deepsha's puppy and baby hanging."}
+![](quartopptimages/fam.jpg){width="70%" fig-align="center" fig-alt="Deepsha's puppy and baby hanging."}
 :::
 :::
 :::
+
+# Let's talk Shiny
 
 ## Shiny: Started with R and now we Pythoning!
 
@@ -1167,7 +1184,7 @@ params <- list(
 
 # But what about Shiny express?
 
-![](quartopptimages/taylorswift_fullfan_gif.gif){width="60%" fig-align="center" fig-alt="Roy Kent saying - Please stop"}
+![](quartopptimages/taylorswift_fullfan_gif.gif){width="60%" fig-align="center" fig-alt=""}
 
 ## Shiny core and express code structure
 
@@ -1321,7 +1338,7 @@ def txt2():
 ::: {.column width="50%"}
 
 ::: {.fragment}
-![](quartopptimages/i-am-calm-taylor-swift-me.gif){width="100%" fig-align="center" fig-alt="Roy Kent saying - Please stop"}
+![](quartopptimages/i-am-calm-taylor-swift-me.gif){width="100%" fig-align="center" fig-alt=""}
 :::
 
 ::: {.fragment}
@@ -1329,7 +1346,7 @@ def txt2():
 Is Shiny Core gonna stay? <br>
 Link: [Shiny express announcement](https://shiny.posit.co/blog/posts/shiny-express/)
 
-![](quartopptimages/shinycorefaqstays.png){width="100%" fig-align="center" fig-alt="Roy Kent saying - Please stop"}
+![](quartopptimages/shinycorefaqstays.png){width="100%" fig-align="center" fig-alt=""}
 :::
 
 
@@ -1343,7 +1360,7 @@ Link: [Shiny express announcement](https://shiny.posit.co/blog/posts/shiny-expre
 When to use what? <br>
 Link: [Shiny express announcement](https://shiny.posit.co/blog/posts/shiny-express/)
 
-![](quartopptimages/shinycore_forcomplex.png){width="100%" fig-align="center" fig-alt="Roy Kent saying - Please stop"}
+![](quartopptimages/shinycore_forcomplex.png){width="100%" fig-align="center" fig-alt=""}
 :::
 
 ::: {.fragment}
@@ -1353,7 +1370,7 @@ How do I translate from one to another <br>
 Link: [Shiny code examples](https://shiny.posit.co/blog/posts/shiny-express/)
 
 
-![](quartopptimages/shinyexpressandcore.png){width="50%" fig-align="center" fig-alt="Roy Kent saying - Please stop"}
+![](quartopptimages/shinyexpressandcore.png){width="50%" fig-align="center" fig-alt=""}
 :::
 
 :::
@@ -1369,7 +1386,7 @@ Link: [Shiny code examples](https://shiny.posit.co/blog/posts/shiny-express/)
 
 
 -   **Everything related to this presentation**
-    -   [Link to presentation](https://deepshamenghani.quarto.pub/shiny-for-python-slides)
+    -   [Short Link to presentation - https://bit.ly/shinyforpythonslides](https://bit.ly/shinyforpythonslides)
     -   [Shiny code](https://www.apreshill.com/blog/2022-04-we-dont-talk-about-quarto/)
     -   ["Who is the Goodest Doggy" App]()
 -   **Additional Peeps, resources and events to follow**
@@ -1379,3 +1396,25 @@ Link: [Shiny code examples](https://shiny.posit.co/blog/posts/shiny-express/)
     -   [Deploying Shiny for Python application](https://shiny.posit.co/py/docs/deploy.html)
 
 
+
+## Let's connect
+
+::: columns
+::: {.column width="60%"}
+
+Mastodon: [\@deepsha](https://fosstodon.org/@deepsha)
+
+LinkedIn: [deepshamenghani](https://bit.ly/deepshamenghani)
+
+Github: [deepshamenghani](https://github.com/deepshamenghani/)
+
+<br> 
+
+### Slides qr code
+[![](quartopptimages/bit.ly_shinyforpythonslides.png){style="max-" fig-alt="QR code to slides." fig-align="left" height="300"}](https://bit.ly/shinyforpythonslides)
+:::
+
+::: {.column width="40%"}
+![](quartopptimages/DeepshaMenghani.jpg){height="600"}
+:::
+:::
