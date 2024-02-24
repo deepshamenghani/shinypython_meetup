@@ -1,0 +1,6 @@
+- source: shiny_python.qmd
+  quarto-pub:
+    - id: f72c759f-c64a-464b-b0b2-b7d1f3b9d52f
+      url: 'https://deepshamenghani.quarto.pub/shiny-for-python-aeaf'
+    - id: 8396caab-2555-4da5-840b-0b376e9fa7bb
+      url: 'https://deepshamenghani.quarto.pub/shiny-for-python-slides'

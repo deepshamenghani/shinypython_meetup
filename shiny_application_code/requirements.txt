@@ -1,0 +1,7 @@
+shiny==0.7.1
+pandas==2.2.0
+pathlib==1.0.1
+shinyswatch==0.4.2
+matplotlib==3.8.3
+
+
