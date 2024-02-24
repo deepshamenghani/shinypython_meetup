@@ -22,14 +22,14 @@ from: markdown+emoji
 ::: {.column width="50%"}
 Data Scientist manager at Microsoft.
 
-![](images1/DeepshaMenghani.jpg){width="80%" fig-align="center" fig-alt="Self portrait."}
+![](quartopptimages/DeepshaMenghani.jpg){width="80%" fig-align="center" fig-alt="Self portrait."}
 :::
 
 ::: {.column width="50%"}
 ::: fragment
 And a parent as of a month ago!
 
-![](images1/babymowgli.jpg){width="70%" fig-align="center" fig-alt="Deepsha's puppy and baby hanging."}
+![](quartopptimages/babymowgli.jpg){width="70%" fig-align="center" fig-alt="Deepsha's puppy and baby hanging."}
 :::
 :::
 :::
@@ -39,7 +39,7 @@ And a parent as of a month ago!
 *[https://shiny.posit.co/py/](https://shiny.posit.co/py/)* <br><br>
 
 
-![](images1/shinypython.png){width="80%" fig-align="center" fig-alt="Shiny python dashboard example"}
+![](quartopptimages/shinypython.png){width="80%" fig-align="center" fig-alt="Shiny python dashboard example"}
 
 
 
@@ -48,7 +48,7 @@ And a parent as of a month ago!
 *[Data source: TidyTuesday](https://github.com/rfordatascience/tidytuesday/blob/master/data/2022/2022-02-01/readme.md)* <br><br>
 
 
-![](images1/dashboardgif.gif){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
+![](quartopptimages/dashboardgif.gif){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
 
 ## Some initial setup 
 
@@ -62,7 +62,7 @@ And a parent as of a month ago!
 3. Install the required packages by either running individual commands like "pip install shiny" or installing all packages by running "pip install -r requirements.txt"
 
 ::: fragment
-![](images1/reqstxt.png){width="30%" fig-align="left" fig-alt="Shiny python dashboard example"}
+![](quartopptimages/reqstxt.png){width="30%" fig-align="left" fig-alt="Shiny python dashboard example"}
 :::
 
 :::
@@ -78,7 +78,7 @@ And a parent as of a month ago!
 
 ::: {.column width="65%"}
 ::: fragment
-![](images1/shinycreatehelp.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
+![](quartopptimages/shinycreatehelp.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
 :::
 :::
 :::
@@ -114,7 +114,7 @@ app = App(app_ui, server)
 ::: {.column width="50%"}
 
 <br>
-![](images1/appbasic.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
+![](quartopptimages/appbasic.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
 :::
 :::
 
@@ -150,7 +150,7 @@ app = App(app_ui, server)
 ::: {.column width="50%"}
 
 <br>
-![](images1/app21.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
+![](quartopptimages/app21.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
 :::
 :::
 
@@ -193,7 +193,7 @@ app = App(app_ui, server)
 ::: {.column width="50%"}
 
 <br>
-![](images1/app22.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
+![](quartopptimages/app22.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
 :::
 :::
 
@@ -242,7 +242,7 @@ app = App(app_ui, server)
 ::: {.column width="50%"}
 
 <br>
-![](images1/app31.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
+![](quartopptimages/app31.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
 :::
 :::
 
@@ -294,7 +294,7 @@ app = App(app_ui, server)
 ::: {.column width="50%"}
 
 <br>
-![](images1/app32.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
+![](quartopptimages/app32.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
 :::
 :::
 
@@ -347,7 +347,7 @@ app = App(app_ui, server)
 ::: {.column width="50%"}
 
 <br>
-![](images1/app33.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
+![](quartopptimages/app33.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
 :::
 :::
 
@@ -406,7 +406,7 @@ app = App(app_ui, server)
 ::: {.column width="50%"}
 
 <br>
-![](images1/app34.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
+![](quartopptimages/app34.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
 :::
 :::
 
@@ -470,7 +470,7 @@ app = App(app_ui, server)
 ::: {.column width="50%"}
 
 <br>
-![](images1/app35.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
+![](quartopptimages/app35.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
 :::
 :::
 
@@ -540,7 +540,7 @@ app = App(app_ui, server)
 ::: {.column width="50%"}
 
 <br>
-![](images1/app41.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
+![](quartopptimages/app41.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
 :::
 :::
 
@@ -613,7 +613,7 @@ app = App(app_ui, server)
 ::: {.column width="50%"}
 
 <br>
-![](images1/app42.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
+![](quartopptimages/app42.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
 :::
 :::
 
@@ -692,7 +692,7 @@ app = App(app_ui, server)
 ::: {.column width="50%"}
 
 <br>
-![](images1/app51.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
+![](quartopptimages/app51.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
 :::
 :::
 
@@ -774,7 +774,7 @@ app = App(app_ui, server)
 ::: {.column width="50%"}
 
 <br>
-![](images1/app52.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
+![](quartopptimages/app52.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
 :::
 :::
 
@@ -865,7 +865,7 @@ app = App(app_ui, server)
 ::: {.column width="50%"}
 
 <br>
-![](images1/app61.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
+![](quartopptimages/app61.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
 :::
 :::
 
@@ -958,7 +958,7 @@ app = App(app_ui, server)
 ::: {.column width="50%"}
 
 <br>
-![](images1/app62.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
+![](quartopptimages/app62.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
 :::
 :::
 
@@ -1053,7 +1053,7 @@ app = App(app_ui, server)
 ::: {.column width="50%"}
 
 <br>
-![](images1/app71.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
+![](quartopptimages/app71.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
 :::
 :::
 
@@ -1149,7 +1149,7 @@ app = App(app_ui, server)
 ::: {.column width="50%"}
 
 <br>
-![](images1/app72.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
+![](quartopptimages/app72.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
 :::
 :::
 
@@ -1163,11 +1163,11 @@ params <- list(
 
 ## We just created this app with "Core Shiny"
 
-![](images1/dashboardgif.gif){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
+![](quartopptimages/dashboardgif.gif){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
 
 # But what about Shiny express?
 
-![](Images1/taylorswift_fullfan_gif.gif){width="60%" fig-align="center" fig-alt="Roy Kent saying - Please stop"}
+![](quartopptimages/taylorswift_fullfan_gif.gif){width="60%" fig-align="center" fig-alt="Roy Kent saying - Please stop"}
 
 ## Shiny core and express code structure
 
@@ -1208,7 +1208,7 @@ app = App(app_ui, server)
 
 <br>
 
-![](images1/appbasic.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
+![](quartopptimages/appbasic.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
 
 
 :::
@@ -1311,7 +1311,7 @@ def txt2():
 ::: {.column width="50%"}
 
 <br>
-![](images1/appbasic_expressexample.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
+![](quartopptimages/appbasic_expressexample.png){width="100%" fig-align="center" fig-alt="Shiny python dashboard example"}
 :::
 :::
 
@@ -1321,7 +1321,7 @@ def txt2():
 ::: {.column width="50%"}
 
 ::: {.fragment}
-![](Images1/i-am-calm-taylor-swift-me.gif){width="100%" fig-align="center" fig-alt="Roy Kent saying - Please stop"}
+![](quartopptimages/i-am-calm-taylor-swift-me.gif){width="100%" fig-align="center" fig-alt="Roy Kent saying - Please stop"}
 :::
 
 ::: {.fragment}
@@ -1329,7 +1329,7 @@ def txt2():
 Is Shiny Core gonna stay? <br>
 Link: [Shiny express announcement](https://shiny.posit.co/blog/posts/shiny-express/)
 
-![](Images1/shinycorefaqstays.png){width="100%" fig-align="center" fig-alt="Roy Kent saying - Please stop"}
+![](quartopptimages/shinycorefaqstays.png){width="100%" fig-align="center" fig-alt="Roy Kent saying - Please stop"}
 :::
 
 
@@ -1343,7 +1343,7 @@ Link: [Shiny express announcement](https://shiny.posit.co/blog/posts/shiny-expre
 When to use what? <br>
 Link: [Shiny express announcement](https://shiny.posit.co/blog/posts/shiny-express/)
 
-![](Images1/shinycore_forcomplex.png){width="100%" fig-align="center" fig-alt="Roy Kent saying - Please stop"}
+![](quartopptimages/shinycore_forcomplex.png){width="100%" fig-align="center" fig-alt="Roy Kent saying - Please stop"}
 :::
 
 ::: {.fragment}
@@ -1353,7 +1353,7 @@ How do I translate from one to another <br>
 Link: [Shiny code examples](https://shiny.posit.co/blog/posts/shiny-express/)
 
 
-![](Images1/shinyexpressandcore.png){width="50%" fig-align="center" fig-alt="Roy Kent saying - Please stop"}
+![](quartopptimages/shinyexpressandcore.png){width="50%" fig-align="center" fig-alt="Roy Kent saying - Please stop"}
 :::
 
 :::
@@ -1363,7 +1363,7 @@ Link: [Shiny code examples](https://shiny.posit.co/blog/posts/shiny-express/)
 
 <br>
 
-![](Images1/taylorscreaming.gif){width="100%" fig-align="center" fig-alt="TSwift screaming"}
+![](quartopptimages/taylorscreaming.gif){width="100%" fig-align="center" fig-alt="TSwift screaming"}
 
 ## Resources
 
@@ -1374,8 +1374,8 @@ Link: [Shiny code examples](https://shiny.posit.co/blog/posts/shiny-express/)
     -   ["Who is the Goodest Doggy" App]()
 -   **Additional Peeps, resources and events to follow**
     -   [Gordon Shotwell](https://www.linkedin.com/in/gshotwell/)
-    -   [Upcoming Shiny Express webinar](https://youtu.be/_f3latmOhew?si=mOhOPI__32XcmveT)
-    -   [Shiny for python](https://www.youtube.com/live/yvi5uXQMvu4?si=smcZL2BJqlrlm_a6)
-    -   [Deploying Shiny for Python application](https://www.youtube.com/live/hbf7Ai3jnxY?si=t6hHleQe-4sbr7pE)
+    -   [Upcoming Shiny Express webinar by Winston Chang](https://www.linkedin.com/posts/rachaeldempsey_were-so-excited-to-share-a-quicker-and-simpler-activity-7166453499340259328-__Me?utm_source=share&utm_medium=member_desktop)
+    -   [Shiny for python documentation](https://shiny.posit.co/py/docs/overview.html)
+    -   [Deploying Shiny for Python application](https://shiny.posit.co/py/docs/deploy.html)
 
 
