@@ -22,4 +22,4 @@ This presentation covers:
 - Shiny Express
 - Resources
 
-Dataset: TidyTuesday dataset courtesy of [KKakey](https://github.com/kkakey/dog_traits_AKC/blob/main/README.md) sourced from the [American Kennel Club]
+Dataset: TidyTuesday dataset courtesy of [KKakey](https://github.com/kkakey/dog_traits_AKC/blob/main/README.md) sourced from the [American Kennel Club](https://www.akc.org/)
