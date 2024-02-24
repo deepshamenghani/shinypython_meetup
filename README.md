@@ -2,7 +2,9 @@
 # Dashboard Creation with Shiny for Python: A Quarto Presentation
 
 This repository contains the resources for a presentation on creating interactive dashboards using Shiny for Python. The presentation is built with Quarto and is designed to be a comprehensive guide for building Shiny for Python applications.
+
 Presentation link: [https://bit.ly/shinyforpythonslides](https://bit.ly/shinyforpythonslides)
+
 Shiny Application code link: [https://github.com/deepshamenghani/Python_Shiny_DoggyDashboard](https://github.com/deepshamenghani/Python_Shiny_DoggyDashboard)
 
 ![dashboardgif](https://github.com/deepshamenghani/shinypython_meetup/assets/46545400/01381de0-5db6-4d61-acae-b082289d00d7)
