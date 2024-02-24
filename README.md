@@ -1,64 +1,39 @@
-Dashboard Creation with Shiny for Python: A Quarto Presentation
-This repository contains the resources for a presentation on creating interactive dashboards using Shiny for Python. The presentation is built with Quarto and is designed to be a comprehensive guide for building, customizing, and deploying Shiny applications.
 
-Presentation Overview
+# Dashboard Creation with Shiny for Python: A Quarto Presentation
+
+This repository contains the resources for a presentation on creating interactive dashboards using Shiny for Python. The presentation is built with Quarto and is designed to be a comprehensive guide for building Shiny for Python applications.
+
+![dashboardgif](https://github.com/deepshamenghani/shinypython_meetup/assets/46545400/01381de0-5db6-4d61-acae-b082289d00d7)
+
+Presentation link: [https://bit.ly/shinyforpythonslides](https://bit.ly/shinyforpythonslides)
+
+## Presentation Overview
+
 This presentation covers:
 
-Basics of Shiny for Python
-Environment setup
-Shiny app development
-Interactivity with widgets
-Data visualization
-Dashboard customization
-Project structure and best practices
-Deployment strategies
-Repository Structure
-graphql
-Copy code
+- Basics of Core Shiny for Python
+- Environment setup
+- Shiny app development step by step
+- Styling the dashboard
+- Shiny Express
+- Resources
+
+## Repository Structure
+
 /
-├── index_files/                # Quarto-generated files
-├── quarto_images/              # Images for the presentation
-├── dashboardgif.gif            # Animated GIF demo of the dashboard
-├── .gitignore                  # Untracked files to ignore
-├── .Rhistory                   # R history file
-├── _publish.yml                # Quarto publishing configuration
-├── index.html                  # Compiled presentation HTML
-├── index.qmd                   # Quarto markdown for presentation
-├── README.md                   # README documentation
-├── shiny_python_meetup.Rproj   # R project file
-└── styles.scss                 # Custom presentation styles
-Getting Started
-Prerequisites
-Python >= 3.6
-R and RStudio (for Quarto)
-Python packages: shiny, pandas, plotly, etc.
-R packages: quarto
-Setup
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-Install Python packages:
-bash
-Copy code
-pip install -r requirements.txt
-Render the presentation with Quarto:
-r
-Copy code
-quarto::quarto_render("index.qmd")
-Running the Shiny App
-The code for the Shiny app is maintained in a separate repository. Clone and follow the setup instructions there:
+├── index_files/ # Quarto-generated files
+├── quarto_images/ # Images for the presentation
+├── dashboardgif.gif # Animated GIF demo of the dashboard
+├── .gitignore # Untracked files to ignore
+├── .Rhistory # R history file
+├── _publish.yml # Quarto publishing configuration
+├── index.html # Compiled presentation HTML
+├── index.qmd # Quarto markdown for presentation
+├── README.md # README documentation
+├── shiny_python_meetup.Rproj # R project file
+└── styles.scss # Custom presentation styles
 
-bash
-Copy code
-git clone https://github.com/your-username/shiny-app-repo.git
-Link to Shiny App Repository
 
-Presentation and Dashboard Demo
-To view the presentation, access it at the following link:
-
-Link to Quarto Presentation
 
 Below is a GIF that demonstrates what the interactive dashboard looks like:
 
