@@ -7,7 +7,7 @@ from shinyswatch import theme
 df = pd.read_csv(Path(__file__).parent / "dog_traits.csv", na_values = "NA")
 breeds = df.breed.unique().tolist()
 traits = df.trait.unique().tolist()
-dogimg_url = "https://camo.githubusercontent.com/97a9cd3442db4582637cacccfc9546801c05c4b98d23c23b85ffde9553a401f3/68747470733a2f2f6d656469612d636c646e72792e732d6e62636e6577732e636f6d2f696d6167652f75706c6f61642f6e657773636d732f323032305f32382f313538373636312f646f67732d6167652d79656172732d6b622d696e6c696e652d3230303730372e6a7067"
+dogimg_url = "https://images.unsplash.com/photo-1444212477490-ca407925329e?q=80&w=1856&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 
 app_ui = ui.page_fillable(
     theme.minty(),
@@ -25,14 +25,15 @@ app_ui = ui.page_fillable(
             bg="#f6e7e8", open="open"
         ),
         ui.row(
-            ui.column(6, ui.card(ui.tags.img(src=dogimg_url, height="100%", width="100%"))),
+            ui.column(6, ui.tags.img(src=dogimg_url, height="90%", width="100%")),
             ui.column(5,
                 ui.panel_absolute(  
                     ui.panel_well(
                         ui.tags.h1("Who is the goodest doggy?!?"),
-                        ui.markdown("TidyTuesday dataset courtesy of [KKakey](https://github.com/kkakey/dog_traits_AKC/blob/main/README.md) sourced from the [American Kennel Club](https://www.akc.org/).")
+                        ui.markdown("Data: Synthetic dog trait ratings inspired by TidyTuesday dataset courtesy of [KKakey](https://github.com/kkakey/dog_traits_AKC/blob/main/README.md) sourced from the [American Kennel Club](https://www.akc.org/)."),
+                        ui.markdown("Photo by [Anoir Chafik](https://unsplash.com/@anoirchafik?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/selective-focus-photography-of-three-brown-puppies-2_3c4dIFYFU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)")
                     ),
-                    width="450px",  
+                    width="400px",  
                     right="75px",  
                     draggable=False,  
                 )

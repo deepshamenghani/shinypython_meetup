@@ -1,113 +1,113 @@
 breed,trait,rating
 Retrievers (Labrador),Affectionate With Family,5
-French Bulldogs,Affectionate With Family,5
-German Shepherd Dogs,Affectionate With Family,5
-Retrievers (Golden),Affectionate With Family,5
+French Bulldogs,Affectionate With Family,2
+German Shepherd Dogs,Affectionate With Family,3
+Retrievers (Golden),Affectionate With Family,3
 Bulldogs,Affectionate With Family,4
-Poodles,Affectionate With Family,5
-Beagles,Affectionate With Family,3
+Poodles,Affectionate With Family,3
+Beagles,Affectionate With Family,5
 Rottweilers,Affectionate With Family,5
-Retrievers (Labrador),Good With Young Children,5
-French Bulldogs,Good With Young Children,5
-German Shepherd Dogs,Good With Young Children,5
+Retrievers (Labrador),Good With Young Children,3
+French Bulldogs,Good With Young Children,4
+German Shepherd Dogs,Good With Young Children,2
 Retrievers (Golden),Good With Young Children,5
-Bulldogs,Good With Young Children,3
+Bulldogs,Good With Young Children,5
 Poodles,Good With Young Children,5
-Beagles,Good With Young Children,5
+Beagles,Good With Young Children,2
 Rottweilers,Good With Young Children,3
-Retrievers (Labrador),Good With Other Dogs,5
+Retrievers (Labrador),Good With Other Dogs,4
 French Bulldogs,Good With Other Dogs,4
-German Shepherd Dogs,Good With Other Dogs,3
-Retrievers (Golden),Good With Other Dogs,5
-Bulldogs,Good With Other Dogs,3
-Poodles,Good With Other Dogs,3
-Beagles,Good With Other Dogs,5
-Rottweilers,Good With Other Dogs,3
-Retrievers (Labrador),Shedding Level,4
-French Bulldogs,Shedding Level,3
-German Shepherd Dogs,Shedding Level,4
+German Shepherd Dogs,Good With Other Dogs,4
+Retrievers (Golden),Good With Other Dogs,4
+Bulldogs,Good With Other Dogs,4
+Poodles,Good With Other Dogs,4
+Beagles,Good With Other Dogs,4
+Rottweilers,Good With Other Dogs,2
+Retrievers (Labrador),Shedding Level,5
+French Bulldogs,Shedding Level,2
+German Shepherd Dogs,Shedding Level,5
 Retrievers (Golden),Shedding Level,4
-Bulldogs,Shedding Level,3
-Poodles,Shedding Level,1
-Beagles,Shedding Level,3
+Bulldogs,Shedding Level,5
+Poodles,Shedding Level,4
+Beagles,Shedding Level,2
 Rottweilers,Shedding Level,3
-Retrievers (Labrador),Coat Grooming Frequency,2
-French Bulldogs,Coat Grooming Frequency,1
+Retrievers (Labrador),Coat Grooming Frequency,3
+French Bulldogs,Coat Grooming Frequency,3
 German Shepherd Dogs,Coat Grooming Frequency,2
-Retrievers (Golden),Coat Grooming Frequency,2
-Bulldogs,Coat Grooming Frequency,3
-Poodles,Coat Grooming Frequency,4
-Beagles,Coat Grooming Frequency,2
-Rottweilers,Coat Grooming Frequency,1
-Retrievers (Labrador),Drooling Level,2
-French Bulldogs,Drooling Level,3
-German Shepherd Dogs,Drooling Level,2
-Retrievers (Golden),Drooling Level,2
-Bulldogs,Drooling Level,3
-Poodles,Drooling Level,1
-Beagles,Drooling Level,1
-Rottweilers,Drooling Level,3
-Retrievers (Labrador),Openness To Strangers,5
+Retrievers (Golden),Coat Grooming Frequency,5
+Bulldogs,Coat Grooming Frequency,5
+Poodles,Coat Grooming Frequency,3
+Beagles,Coat Grooming Frequency,4
+Rottweilers,Coat Grooming Frequency,4
+Retrievers (Labrador),Drooling Level,3
+French Bulldogs,Drooling Level,5
+German Shepherd Dogs,Drooling Level,3
+Retrievers (Golden),Drooling Level,3
+Bulldogs,Drooling Level,2
+Poodles,Drooling Level,2
+Beagles,Drooling Level,4
+Rottweilers,Drooling Level,4
+Retrievers (Labrador),Openness To Strangers,2
 French Bulldogs,Openness To Strangers,5
-German Shepherd Dogs,Openness To Strangers,3
-Retrievers (Golden),Openness To Strangers,5
-Bulldogs,Openness To Strangers,4
-Poodles,Openness To Strangers,5
-Beagles,Openness To Strangers,3
-Rottweilers,Openness To Strangers,3
+German Shepherd Dogs,Openness To Strangers,4
+Retrievers (Golden),Openness To Strangers,4
+Bulldogs,Openness To Strangers,3
+Poodles,Openness To Strangers,4
+Beagles,Openness To Strangers,5
+Rottweilers,Openness To Strangers,2
 Retrievers (Labrador),Playfulness Level,5
-French Bulldogs,Playfulness Level,5
-German Shepherd Dogs,Playfulness Level,4
-Retrievers (Golden),Playfulness Level,4
-Bulldogs,Playfulness Level,4
-Poodles,Playfulness Level,5
-Beagles,Playfulness Level,4
+French Bulldogs,Playfulness Level,4
+German Shepherd Dogs,Playfulness Level,5
+Retrievers (Golden),Playfulness Level,2
+Bulldogs,Playfulness Level,2
+Poodles,Playfulness Level,2
+Beagles,Playfulness Level,2
 Rottweilers,Playfulness Level,4
-Retrievers (Labrador),Watchdog/Protective Nature,3
+Retrievers (Labrador),Watchdog/Protective Nature,4
 French Bulldogs,Watchdog/Protective Nature,3
-German Shepherd Dogs,Watchdog/Protective Nature,5
-Retrievers (Golden),Watchdog/Protective Nature,3
+German Shepherd Dogs,Watchdog/Protective Nature,2
+Retrievers (Golden),Watchdog/Protective Nature,2
 Bulldogs,Watchdog/Protective Nature,3
 Poodles,Watchdog/Protective Nature,5
-Beagles,Watchdog/Protective Nature,2
-Rottweilers,Watchdog/Protective Nature,5
-Retrievers (Labrador),Adaptability Level,5
+Beagles,Watchdog/Protective Nature,4
+Rottweilers,Watchdog/Protective Nature,3
+Retrievers (Labrador),Adaptability Level,3
 French Bulldogs,Adaptability Level,5
-German Shepherd Dogs,Adaptability Level,5
+German Shepherd Dogs,Adaptability Level,4
 Retrievers (Golden),Adaptability Level,5
 Bulldogs,Adaptability Level,3
-Poodles,Adaptability Level,4
-Beagles,Adaptability Level,4
-Rottweilers,Adaptability Level,4
-Retrievers (Labrador),Trainability Level,5
+Poodles,Adaptability Level,2
+Beagles,Adaptability Level,2
+Rottweilers,Adaptability Level,3
+Retrievers (Labrador),Trainability Level,3
 French Bulldogs,Trainability Level,4
 German Shepherd Dogs,Trainability Level,5
-Retrievers (Golden),Trainability Level,5
+Retrievers (Golden),Trainability Level,2
 Bulldogs,Trainability Level,4
-Poodles,Trainability Level,5
-Beagles,Trainability Level,3
-Rottweilers,Trainability Level,5
+Poodles,Trainability Level,4
+Beagles,Trainability Level,2
+Rottweilers,Trainability Level,2
 Retrievers (Labrador),Energy Level,5
-French Bulldogs,Energy Level,3
-German Shepherd Dogs,Energy Level,5
-Retrievers (Golden),Energy Level,3
-Bulldogs,Energy Level,3
-Poodles,Energy Level,4
+French Bulldogs,Energy Level,5
+German Shepherd Dogs,Energy Level,3
+Retrievers (Golden),Energy Level,2
+Bulldogs,Energy Level,2
+Poodles,Energy Level,3
 Beagles,Energy Level,4
 Rottweilers,Energy Level,3
-Retrievers (Labrador),Barking Level,3
-French Bulldogs,Barking Level,1
-German Shepherd Dogs,Barking Level,3
-Retrievers (Golden),Barking Level,1
-Bulldogs,Barking Level,2
-Poodles,Barking Level,4
-Beagles,Barking Level,4
-Rottweilers,Barking Level,1
-Retrievers (Labrador),Mental Stimulation Needs,4
-French Bulldogs,Mental Stimulation Needs,3
-German Shepherd Dogs,Mental Stimulation Needs,5
-Retrievers (Golden),Mental Stimulation Needs,4
+Retrievers (Labrador),Barking Level,2
+French Bulldogs,Barking Level,2
+German Shepherd Dogs,Barking Level,4
+Retrievers (Golden),Barking Level,2
+Bulldogs,Barking Level,3
+Poodles,Barking Level,3
+Beagles,Barking Level,5
+Rottweilers,Barking Level,3
+Retrievers (Labrador),Mental Stimulation Needs,2
+French Bulldogs,Mental Stimulation Needs,4
+German Shepherd Dogs,Mental Stimulation Needs,4
+Retrievers (Golden),Mental Stimulation Needs,3
 Bulldogs,Mental Stimulation Needs,3
-Poodles,Mental Stimulation Needs,5
-Beagles,Mental Stimulation Needs,4
+Poodles,Mental Stimulation Needs,3
+Beagles,Mental Stimulation Needs,2
 Rottweilers,Mental Stimulation Needs,5
