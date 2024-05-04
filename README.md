@@ -9,9 +9,7 @@ Shiny Application code link: [https://github.com/deepshamenghani/Python_Shiny_Do
 
 [Shiny Application link (deployed with Shinyapps.io)](https://hzon6a-deepsha-menghani.shinyapps.io/whoisthegoodestdoggy/)
 
-![dashboardgif](https://github.com/deepshamenghani/shinypython_meetup/assets/46545400/01381de0-5db6-4d61-acae-b082289d00d7)
-
-
+![shinyapp_gif](https://github.com/deepshamenghani/shinypython_meetup/assets/46545400/6f9bbccb-b7c0-4efe-b11d-3d52c83b8b46)
 
 ## Presentation Overview
 
