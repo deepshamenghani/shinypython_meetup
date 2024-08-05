@@ -1316,11 +1316,11 @@ def txt():
     return f"n*2 is {input.n() * 2}"
 
 ui.panel_title("Hello again Shiny!")
-ui.input_slider("n2", "N", 50, 100, 70)
+ui.input_slider("z", "Z", 50, 100, 70)
 
 @render.text
 def txt2():
-    return f"n2*3 is {input.n() * 3}"
+    return f"Z*3 is {input.z() * 3}"
 
 ```
 :::
